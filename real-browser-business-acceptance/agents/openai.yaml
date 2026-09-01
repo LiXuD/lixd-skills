@@ -1,0 +1,4 @@
+interface:
+  display_name: "Real Browser Business Acceptance"
+  short_description: "Plan and prove full-chain browser business flows"
+  default_prompt: "Use $real-browser-business-acceptance to plan and execute evidence-first acceptance of this business system through a real browser and real runtime."
