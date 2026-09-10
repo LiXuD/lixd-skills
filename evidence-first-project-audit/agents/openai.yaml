@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-First Project Audit"
+  short_description: "Test project claims against direct evidence"
+  default_prompt: "Use $evidence-first-project-audit to determine what this project's current evidence actually proves."

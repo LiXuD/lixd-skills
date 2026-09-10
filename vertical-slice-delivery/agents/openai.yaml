@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vertical Slice Delivery"
+  short_description: "Deliver complete cross-workstream outcomes"
+  default_prompt: "Use $vertical-slice-delivery to deliver this outcome as a small, complete, verifiable slice."

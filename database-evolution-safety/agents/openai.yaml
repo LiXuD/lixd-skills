@@ -1,0 +1,4 @@
+interface:
+  display_name: "Database Evolution Safety"
+  short_description: "Evolve persistent data safely and recoverably"
+  default_prompt: "Use $database-evolution-safety to plan and verify this persistent-data change safely."
