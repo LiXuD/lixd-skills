@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Base Curator"
+  short_description: "Keep project knowledge current and trustworthy"
+  default_prompt: "Use $knowledge-base-curator to reconcile, organize, and safely clean this project's knowledge base."

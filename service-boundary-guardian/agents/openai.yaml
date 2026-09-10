@@ -1,0 +1,4 @@
+interface:
+  display_name: "Service Boundary Guardian"
+  short_description: "Protect ownership and architectural boundaries"
+  default_prompt: "Use $service-boundary-guardian to audit this package, module, domain, or service boundary."
