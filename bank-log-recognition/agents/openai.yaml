@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bank Duty Log Recognition"
+  short_description: "Recognize bank data-center duty log screenshots into timing tables"
+  default_prompt: "Use $bank-log-recognition to read this month's duty log screenshots and produce the batch/backup timing table."

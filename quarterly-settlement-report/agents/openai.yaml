@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quarterly Settlement Report"
+  short_description: "Build a quarterly settlement report from monthly reports"
+  default_prompt: "Use $quarterly-settlement-report to generate this quarter's settlement report from the monthly reports."

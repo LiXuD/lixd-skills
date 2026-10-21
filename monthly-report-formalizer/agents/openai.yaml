@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monthly Report Formalizer"
+  short_description: "Rewrite a monthly duty report draft into formal submission style"
+  default_prompt: "Use $monthly-report-formalizer to formalize this monthly report without changing any facts."

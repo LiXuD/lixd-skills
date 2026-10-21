@@ -1,0 +1,4 @@
+interface:
+  display_name: "Call Stats Aggregator"
+  short_description: "Aggregate answered-call statistics across monthly workbooks"
+  default_prompt: "Use $call-stats-aggregator to sum call categories for the requested date range."

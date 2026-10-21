@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monthly Duty Report Generator"
+  short_description: "Generate attachments, shift roster and V2 monthly duty report"
+  default_prompt: "Use $monthly-report-generator to generate this month's duty report from the raw data sources."

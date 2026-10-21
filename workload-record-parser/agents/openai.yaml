@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workload Record Parser"
+  short_description: "Parse monthly duty workload Word records into call statistics"
+  default_prompt: "Use $workload-record-parser to extract this month's call statistics from the workload record document."
